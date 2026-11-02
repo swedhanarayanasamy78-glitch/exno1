@@ -117,10 +117,18 @@ print(df_cleaned)
 ```
 
 
- Output:
-<img width="430" height="522" alt="Screenshot 2026-11-02 153701" src="https://github.com/user-attachments/assets/94162d37-04f5-4bcd-8b62-40680a148b9f" />
+ <h1>Output:</h1>
+<img width="707" height="852" alt="Screenshot 2026-11-02 153613" src="https://github.com/user-attachments/assets/c127c9da-cc82-4025-8f7f-afcf1e8376ba" />
+<img width="693" height="818" alt="Screenshot 2026-11-02 153626" src="https://github.com/user-attachments/assets/802e261f-9eac-4cf0-8e5e-953f9d5e3f81" />
+<img width="637" height="846" alt="Screenshot 2026-11-02 153634" src="https://github.com/user-attachments/assets/570b041d-7a15-47d3-b1e4-1d92e3526bc4" />
+<img width="420" height="577" alt="Screenshot 2026-11-02 153654" src="https://github.com/user-attachments/assets/e4f83e39-cb93-497d-83a0-765f3a166edc" />
+<img width="430" height="522" alt="Screenshot 2026-11-02 153701" src="https://github.com/user-attachments/assets/d2ab133a-e332-43f2-ab57-e796c8c25dae" />
+
+
+
+
 
  
             
-# Result
+<h2>Result:</h2> 
 Thus perform data cleaning and save the cleaned data to a file is successfully executed.
